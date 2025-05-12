@@ -1,6 +1,42 @@
-.holder{
+#holder{
+	background-color:aqua;
 	display:flex;
-	justify-content:space-between;
+	justify-content: space-between;
 	flex-wrap:wrap;
+	flex-direction:row;
 }
-/* Your CSS Code here. */
+.item1{
+	width:200px;
+	height:100px;
+	background-color:red;
+}
+.item2{
+	width:200px;
+	height:100px;
+	background-color:blue;
+}
+.item3{
+	width:200px;
+	height:100px;
+	background-color:green;
+}
+.item4{
+	width:200px;
+	height:100px;
+	background-color:green;
+}
+.item5{
+	width:200px;
+	height:100px;
+	background-color:green;
+}
+.item6{
+	width:200px;
+	height:100px;
+	background-color:green;
+}
+.item7{
+	width:200px;
+	height:100px;
+	background-color:green;
+}

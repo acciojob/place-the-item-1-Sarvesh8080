@@ -1,9 +1,9 @@
-#holder{
+.holder{
 	background-color:aqua;
 	display:flex;
 	justify-content: space-between;
 	flex-wrap:wrap;
-	flex-direction:row;
+	flex-direction:row
 }
 .item1{
 	width:200px;
